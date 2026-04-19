@@ -6,7 +6,7 @@
 - Madrid, España.
 - Estudiando un bootcamp de IA & Big Data.
 - Soy autodidacta y muy creativa que busca aprender y mejorar cada día.
-- **Mi itención es conectar con cada persona que visite mis proyectos**.
+- **Mi intención es conectar con cada persona que visite mis proyectos**.
 
 ### Technologies in this project
 
